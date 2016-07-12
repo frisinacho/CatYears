@@ -12,6 +12,7 @@
 		66E80E781D3555DF002DACFC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66E80E761D3555DF002DACFC /* Main.storyboard */; };
 		66E80E7A1D3555DF002DACFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66E80E791D3555DF002DACFC /* Assets.xcassets */; };
 		66E80E7D1D3555DF002DACFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66E80E7B1D3555DF002DACFC /* LaunchScreen.storyboard */; };
+		66E80E851D3556FB002DACFC /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 66E80E841D3556FB002DACFC /* cat.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		66E80E791D3555DF002DACFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		66E80E7C1D3555DF002DACFC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		66E80E7E1D3555DF002DACFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66E80E841D3556FB002DACFC /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				66E80E721D3555DF002DACFC /* AppDelegate.swift */,
 				66E80E741D3555DF002DACFC /* ViewController.swift */,
+				66E80E841D3556FB002DACFC /* cat.png */,
 				66E80E761D3555DF002DACFC /* Main.storyboard */,
 				66E80E791D3555DF002DACFC /* Assets.xcassets */,
 				66E80E7B1D3555DF002DACFC /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			files = (
 				66E80E7D1D3555DF002DACFC /* LaunchScreen.storyboard in Resources */,
 				66E80E7A1D3555DF002DACFC /* Assets.xcassets in Resources */,
+				66E80E851D3556FB002DACFC /* cat.png in Resources */,
 				66E80E781D3555DF002DACFC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
